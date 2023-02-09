@@ -1,0 +1,10 @@
+G:\MODULO2\zodiac prog\obj\Debug\zodiac prog.csproj.AssemblyReference.cache
+G:\MODULO2\zodiac prog\obj\Debug\zodiac_prog.Form1.resources
+G:\MODULO2\zodiac prog\obj\Debug\zodiac_prog.Properties.Resources.resources
+G:\MODULO2\zodiac prog\obj\Debug\zodiac prog.csproj.GenerateResource.cache
+G:\MODULO2\zodiac prog\obj\Debug\zodiac prog.csproj.CoreCompileInputs.cache
+G:\MODULO2\zodiac prog\bin\Debug\zodiac prog.exe.config
+G:\MODULO2\zodiac prog\bin\Debug\zodiac prog.exe
+G:\MODULO2\zodiac prog\bin\Debug\zodiac prog.pdb
+G:\MODULO2\zodiac prog\obj\Debug\zodiac prog.exe
+G:\MODULO2\zodiac prog\obj\Debug\zodiac prog.pdb
